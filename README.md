@@ -1,4 +1,4 @@
-# data Mining Specialization
+# Data Mining Specialization
 Learn the four courses of Data Mining from University of Illinois at Urbana-Champaign.
 * Watch Videos 
 * Do Quiz
@@ -11,9 +11,9 @@ Learn the four courses of Data Mining from University of Illinois at Urbana-Cham
 
 ## Text Mining and Analytics
 
-## Pattern Discovery in Data Mining
+## Pattern Discovery in Data Mining - IN PROCESS
 
-## Cluster Analysis in Data Mining - IN PROCESS
+## Cluster Analysis in Data Mining
 
 ## Data Mining Project
 
